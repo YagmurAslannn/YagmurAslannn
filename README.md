@@ -4,8 +4,9 @@ I'm a frontend developer passionate about building user-friendly and accessible 
 
 🧠 Studied Computer Engineering in Türkiye<br/>
 👩‍💻 Currently studying Human-Computer Interaction (MSc) in Poland<br/>
+💻 Building projects with JavaScript<br/>
 🎮 Creating VR/AR experiences and game prototypes<br/>
-🎯 Currently learning Front-end development and JS with [Codecademy](https://www.codecademy.com/).<br/>
+🎯 Currently learning Front-end development<br/>
 📃 Check my [portfolio](https://yagmuraslanportfolio.framer.website/) for view my projects<br/>
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aslanyagmur/) or send me a [Email](aslanyagmurr1@gmail.com).
@@ -28,9 +29,9 @@ I'm a frontend developer passionate about building user-friendly and accessible 
 # 💻 Some of My Projects
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Dungeon Game](https://ytcards.demolab.com/?id=pxZp3XeyPQI&title=Dungeon+Game&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=47 "Dungeon Game")](https://youtu.be/pxZp3XeyPQI)
-[![Obstacle Assault Game](https://ytcards.demolab.com/?id=gf5BmwVqmAg&title=Obstacle+Assault+Game&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Obstacle Assault Game")](https://youtu.be/gf5BmwVqmAg)
-[![Warehouse Game](https://ytcards.demolab.com/?id=eP4nDmkP8hg&title=Warehouse+Game&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23 "Warehouse Game")](https://youtu.be/eP4nDmkP8hg)
-[![VR Mouse Game Level 3](https://ytcards.demolab.com/?id=agikOzgZhsw&title=VR+Mouse+Game+Level+3&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41 "VR Mouse Game Level 3")](https://youtu.be/agikOzgZhsw)
-[![VR Pipeline Repair](https://ytcards.demolab.com/?id=gChLn5rHfcw&title=VR+Pipeline+Repair&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=64 "VR Pipeline Repair")](https://youtu.be/gChLn5rHfcw)
-[![VR House](https://ytcards.demolab.com/?id=t233L7zYKFA&title=VR+House&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34 "VR House")](https://youtu.be/t233L7zYKFA)
+[![Obstacle Assault Game](https://ytcards.demolab.com/?id=gf5BmwVqmAg&title=Obstacle+Assault+Game&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=50 "Obstacle Assault Game")](https://youtu.be/gf5BmwVqmAg)
+[![Warehouse Game](https://ytcards.demolab.com/?id=eP4nDmkP8hg&title=Warehouse+Game&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23 "Warehouse Game")](https://youtu.be/eP4nDmkP8hg)
+[![VR Mouse Game Level 3](https://ytcards.demolab.com/?id=agikOzgZhsw&title=VR+Mouse+Game+Level+3&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=41 "VR Mouse Game Level 3")](https://youtu.be/agikOzgZhsw)
+[![VR Pipeline Repair](https://ytcards.demolab.com/?id=gChLn5rHfcw&title=VR+Pipeline+Repair&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=64 "VR Pipeline Repair")](https://youtu.be/gChLn5rHfcw)
+[![VR House](https://ytcards.demolab.com/?id=t233L7zYKFA&title=VR+House&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=34 "VR House")](https://youtu.be/t233L7zYKFA)
 <!-- END YOUTUBE-CARDS -->
