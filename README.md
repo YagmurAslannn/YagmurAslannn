@@ -7,7 +7,7 @@ I'm a frontend developer passionate about building user-friendly and accessible 
 💻 Building projects with JavaScript<br/>
 🎮 Creating VR/AR experiences and game prototypes<br/>
 🎯 Currently learning Front-end development<br/>
-📃 Check my [portfolio](https://yagmuraslanportfolio.framer.website/) for view my projects<br/>
+📃 Check my [portfolio](https://yagmuraslanportfolio.framer.website/) to view my projects<br/>
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aslanyagmur/) or send me a [Email](aslanyagmurr1@gmail.com).
 
