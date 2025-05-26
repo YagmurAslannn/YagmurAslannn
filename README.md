@@ -26,15 +26,11 @@ I'm a frontend developer passionate about building user-friendly and accessible 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 💻 Some of My Projects
-<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
-<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Dungeon Game](https://ytcards.demolab.com/?id=pxZp3XeyPQI&title=Dungeon+Game&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=47 "Dungeon Game")](https://youtu.be/pxZp3XeyPQI)
-[![Obstacle Assault Game](https://ytcards.demolab.com/?id=gf5BmwVqmAg&title=Obstacle+Assault+Game&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Obstacle Assault Game")](https://youtu.be/gf5BmwVqmAg)
-[![Warehouse Game](https://ytcards.demolab.com/?id=eP4nDmkP8hg&title=Warehouse+Game&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23 "Warehouse Game")](https://youtu.be/eP4nDmkP8hg)
-[![VR Mouse Game Level 3](https://ytcards.demolab.com/?id=agikOzgZhsw&title=VR+Mouse+Game+Level+3&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41 "VR Mouse Game Level 3")](https://youtu.be/agikOzgZhsw)
-[![VR Pipeline Repair](https://ytcards.demolab.com/?id=gChLn5rHfcw&title=VR+Pipeline+Repair&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=64 "VR Pipeline Repair")](https://youtu.be/gChLn5rHfcw)
-[![VR House](https://ytcards.demolab.com/?id=t233L7zYKFA&title=VR+House&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "VR House")](https://youtu.be/t233L7zYKFA)
+[![Dungeon Game](https://ytcards.demolab.com/?id=pxZp3XeyPQI&title=Dungeon+Game&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=47 "Dungeon Game")](https://youtu.be/pxZp3XeyPQI)
+[![Obstacle Assault Game](https://ytcards.demolab.com/?id=gf5BmwVqmAg&title=Obstacle+Assault+Game&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Obstacle Assault Game")](https://youtu.be/gf5BmwVqmAg)
+[![Warehouse Game](https://ytcards.demolab.com/?id=eP4nDmkP8hg&title=Warehouse+Game&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23 "Warehouse Game")](https://youtu.be/eP4nDmkP8hg)
+[![VR Mouse Game Level 3](https://ytcards.demolab.com/?id=agikOzgZhsw&title=VR+Mouse+Game+Level+3&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41 "VR Mouse Game Level 3")](https://youtu.be/agikOzgZhsw)
+[![VR Pipeline Repair](https://ytcards.demolab.com/?id=gChLn5rHfcw&title=VR+Pipeline+Repair&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=64 "VR Pipeline Repair")](https://youtu.be/gChLn5rHfcw)
+[![VR House](https://ytcards.demolab.com/?id=t233L7zYKFA&title=VR+House&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34 "VR House")](https://youtu.be/t233L7zYKFA)
 <!-- END YOUTUBE-CARDS -->
