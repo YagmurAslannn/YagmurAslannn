@@ -5,7 +5,7 @@ I'm a frontend developer passionate about building user-friendly and accessible 
 🧠 Studied Computer Engineering in Türkiye<br/>
 👩‍💻 Currently studying Human-Computer Interaction (MSc) in Poland<br/>
 🎮 Creating VR/AR experiences and game prototypes<br/>
-🎯 Currently learning Front-end development and JS with ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A).<br/>
+🎯 Currently learning Front-end development and JS with [Codecademy](https://www.codecademy.com/).<br/>
 📃 Check my [portfolio](https://yagmuraslanportfolio.framer.website/) for view my projects<br/>
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aslanyagmur/) or send me a [mail](aslanyagmurr1@gmail.com).
