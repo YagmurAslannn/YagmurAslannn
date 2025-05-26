@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Yağmur
+### 👋 Hi, I'm Yağmur
 
 I'm a frontend developer passionate about building user-friendly and accessible web applications.<br/>
 
