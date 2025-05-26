@@ -9,7 +9,7 @@ I'm a frontend developer passionate about building user-friendly and accessible 
 🎯 Currently learning Front-end development<br/>
 📃 Check my [portfolio](https://yagmuraslanportfolio.framer.website/) to view my projects<br/>
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aslanyagmur/) or send me a [Email](aslanyagmurr1@gmail.com).
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aslanyagmur/) or send me an [Email](aslanyagmurr1@gmail.com).
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -21,10 +21,8 @@ I'm a frontend developer passionate about building user-friendly and accessible 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/>
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)<br/>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 💻 Some of My Projects
 <!-- BEGIN YOUTUBE-CARDS -->
