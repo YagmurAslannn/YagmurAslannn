@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Yağmur
 
-I'm a frontend developer passionate about building user-friendly and accessible web applications.<br/>
+I develop modern and user-friendly web applications and games. I'm passionate about blending clean, reliable game development with creative and player-focused design. <br/>
 
 🧠 Studied Computer Engineering in Türkiye<br/>
 👩‍💻 Currently studying Human-Computer Interaction (MSc) in Poland<br/>
