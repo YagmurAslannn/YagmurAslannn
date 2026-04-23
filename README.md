@@ -1,30 +1,40 @@
 ### 👋 Hi, I'm Yağmur
 
-I develop modern and user-friendly web applications and games. I'm passionate about blending clean, reliable game development with creative and player-focused design. <br/>
+I'm a junior developer with a background in Computer Engineering and a Master's degree in Human-Computer Interaction.
 
-🧠 Studied Computer Engineering in Türkiye<br/>
-👩‍💻 Currently studying Human-Computer Interaction (MSc) in Poland<br/>
-💻 Creating Scenes on Unreal Engine<br/>
-🎮 Creating VR/AR experiences and game prototypes<br/>
-🎯 Currently creating new Level Designs for games and movies<br/>
-<!--📃 Check my [portfolio](https://yagmuraslanportfolio.framer.website/) to view my projects-->
+I enjoy building small, practical applications and learning new technologies through hands-on projects. Currently focusing on web development and Python-based tools.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aslanyagmur/) or send me an [Email](aslanyagmurr1@gmail.com).
+<br/>
+
+🧠 BSc in Computer Engineering (Türkiye)  
+🎓 MSc in Human-Computer Interaction (Poland)  
+
+💻 Building small projects with Python and web technologies  
+🌐 Currently learning frontend development and automation  
+🎮 Experience in game development and Unreal Engine (Blueprint)  
+🧩 Interested in creating interactive and user-focused applications  
+
+📃 Check my [portfolio](https://yagmuraslan.pages.dev/)  
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aslanyagmur/) or via email: aslanyagmurr1@gmail.com
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/>
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)<br/>
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 💻 Some of My Projects
+
+Here are some of my projects, mostly focused on game development, VR/AR, and interactive experiences. I'm currently working on expanding my portfolio with web and Python-based projects.
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![StarWars](https://ytcards.demolab.com/?id=VUS0BGCpZbA&title=StarWars&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13 "StarWars")](https://youtu.be/VUS0BGCpZbA)
 [![StarWars Scene](https://ytcards.demolab.com/?id=vKpO27cUmfo&title=StarWars+Scene&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=95 "StarWars Scene")](https://youtu.be/vKpO27cUmfo)
