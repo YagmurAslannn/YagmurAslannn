@@ -8,7 +8,6 @@ I enjoy building small, practical applications and learning new technologies thr
 
 🧠 BSc in Computer Engineering (Türkiye)  
 🎓 MSc in Human-Computer Interaction (Poland)  
-
 💻 Building small projects with Python and web technologies  
 🌐 Currently learning frontend development and automation  
 🎮 Experience in game development and Unreal Engine (Blueprint)  
