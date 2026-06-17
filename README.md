@@ -45,6 +45,7 @@ A full-stack recipe application built with Python, BeautifulSoup, SQLite, FastAP
 
 **Tech:** Python • BeautifulSoup • SQLite • FastAPI • React • Bootstrap • Cloudflare
 
+## 🎮 Game Development, VR/AR & Interactive Experiences
 <!-- BEGIN YOUTUBE-CARDS -->
 [![StarWars](https://ytcards.demolab.com/?id=VUS0BGCpZbA&title=StarWars&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13 "StarWars")](https://youtu.be/VUS0BGCpZbA)
 [![StarWars Scene](https://ytcards.demolab.com/?id=vKpO27cUmfo&title=StarWars+Scene&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=95 "StarWars Scene")](https://youtu.be/vKpO27cUmfo)
