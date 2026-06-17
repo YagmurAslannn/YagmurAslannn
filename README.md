@@ -2,14 +2,15 @@
 
 I'm a junior developer with a background in Computer Engineering and a Master's degree in Human-Computer Interaction.
 
-I enjoy building small, practical applications and learning new technologies through hands-on projects. Currently focusing on web development and Python-based tools.
+I enjoy building practical applications and learning new technologies through hands-on projects. Recently, I built and deployed a full-stack recipe application using Python, FastAPI, React, SQLite, and Cloudflare.
 
 <br/>
 
 🧠 BSc in Computer Engineering (Türkiye)  
 🎓 MSc in Human-Computer Interaction (Poland)  
-💻 Building full-stack projects with Python, React, and web technologies 
-🌐 Currently learning frontend development and automation  
+💻 Building full-stack projects with Python, React, and web technologies<br/>
+
+🌐 Currently learning frontend development and automation
 🎮 Experience in game development and Unreal Engine (Blueprint)  
 🧩 Interested in creating interactive and user-focused applications  
 
@@ -33,7 +34,7 @@ I enjoy building small, practical applications and learning new technologies thr
 
 # 💻 Some of My Projects
 
-Here are some of my projects, mostly focused on game development, VR/AR, and interactive experiences. I'm currently working on expanding my portfolio with web and Python-based projects.
+Here are some of my projects, focused on game development, VR/AR, web development, and interactive experiences. Recently, I built and deployed a full-stack recipe application using Python, FastAPI, React, SQLite, and Cloudflare.
 
 ## 🍳 Featured Project: Bramble Kitchen
 
