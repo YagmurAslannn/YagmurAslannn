@@ -8,7 +8,7 @@ I enjoy building small, practical applications and learning new technologies thr
 
 🧠 BSc in Computer Engineering (Türkiye)  
 🎓 MSc in Human-Computer Interaction (Poland)  
-💻 Building small projects with Python and web technologies  
+💻 Building full-stack projects with Python, React, and web technologies 
 🌐 Currently learning frontend development and automation  
 🎮 Experience in game development and Unreal Engine (Blueprint)  
 🧩 Interested in creating interactive and user-focused applications  
@@ -22,6 +22,7 @@ I enjoy building small, practical applications and learning new technologies thr
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -33,6 +34,27 @@ I enjoy building small, practical applications and learning new technologies thr
 # 💻 Some of My Projects
 
 Here are some of my projects, mostly focused on game development, VR/AR, and interactive experiences. I'm currently working on expanding my portfolio with web and Python-based projects.
+
+🍳 Featured Web Project
+Bramble Kitchen
+
+A full-stack recipe application built with Python, BeautifulSoup, SQLite, FastAPI, React, and Bootstrap.
+
+🔗 Live Demo: https://bramblekitchen.aslanyagmurr1.workers.dev/
+
+📂 GitHub Repository: https://github.com/YagmurAslannn/HealtyFood
+
+Features
+
+Recipe parsing with BeautifulSoup
+SQLite database integration
+FastAPI backend
+React frontend
+Responsive UI with Bootstrap
+Cloudflare deployment
+
+Tech Stack
+Python • BeautifulSoup • SQLite • FastAPI • React • Bootstrap • Cloudflare
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![StarWars](https://ytcards.demolab.com/?id=VUS0BGCpZbA&title=StarWars&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13 "StarWars")](https://youtu.be/VUS0BGCpZbA)
