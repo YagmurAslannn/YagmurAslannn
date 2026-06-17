@@ -6,13 +6,12 @@ I enjoy building practical applications and learning new technologies through ha
 
 <br/>
 
-🧠 BSc in Computer Engineering (Türkiye)  
-🎓 MSc in Human-Computer Interaction (Poland)  
+🧠 BSc in Computer Engineering (Türkiye)  <br/>
+🎓 MSc in Human-Computer Interaction (Poland)  <br/>
 💻 Building full-stack projects with Python, React, and web technologies<br/>
-
-🌐 Currently learning frontend development and automation
-🎮 Experience in game development and Unreal Engine (Blueprint)  
-🧩 Interested in creating interactive and user-focused applications  
+🌐 Currently learning frontend development and automation<br/>
+🎮 Experience in game development and Unreal Engine (Blueprint)  <br/>
+🧩 Interested in creating interactive and user-focused applications  <br/>
 
 📃 Check my [portfolio](https://yagmuraslan.pages.dev/)  
 
