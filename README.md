@@ -41,7 +41,7 @@ A full-stack recipe application built with Python, BeautifulSoup, SQLite, FastAP
 
 🔗 Live Demo: https://bramblekitchen.aslanyagmurr1.workers.dev/
 
-📂 Repository: https://github.com/YagmurAslannn/HealtyFood
+📂 Repository: https://github.com/YagmurAslannn/BrambleKitchen
 
 **Tech:** Python • BeautifulSoup • SQLite • FastAPI • React • Bootstrap • Cloudflare
 
